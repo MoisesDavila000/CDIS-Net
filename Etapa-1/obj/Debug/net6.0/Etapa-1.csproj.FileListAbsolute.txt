@@ -1,0 +1,15 @@
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\bin\Debug\net6.0\Etapa-1.exe
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\bin\Debug\net6.0\Etapa-1.deps.json
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\bin\Debug\net6.0\Etapa-1.runtimeconfig.json
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\bin\Debug\net6.0\Etapa-1.dll
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\bin\Debug\net6.0\Etapa-1.pdb
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.csproj.AssemblyReference.cache
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.AssemblyInfoInputs.cache
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.AssemblyInfo.cs
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.csproj.CoreCompileInputs.cache
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.dll
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\refint\Etapa-1.dll
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.pdb
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\Etapa-1.genruntimeconfig.cache
+D:\WebDenProj\CDIS .Net\Curso-Net-6\Etapa-1\obj\Debug\net6.0\ref\Etapa-1.dll
