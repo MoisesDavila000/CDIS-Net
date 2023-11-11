@@ -1,0 +1,18 @@
+[
+  {
+    "Department": "TI",
+    "ID": 1,
+    "Name": "moises",
+    "Email": "admin@admin.com",
+    "Balance": 10000.0,
+    "RegisterDate": "2023-11-10T09:19:59.0579659-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 2,
+    "Name": "Mario",
+    "Email": "mario@mario.com",
+    "Balance": 10.2,
+    "RegisterDate": "2023-11-10T09:20:22.150669-06:00"
+  }
+]
